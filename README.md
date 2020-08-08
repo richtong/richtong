@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io)
+[![Twitter](https://img.shields.io/twitter/follow/richtong.svg?style=social&label=@:twitterHandle)](https://twitter.com/richtong)
 <!--
 **richtong/richtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
