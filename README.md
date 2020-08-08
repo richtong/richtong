@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: read about this cool thing on https://medium.com
 
+A quick note, doing these badges are pretty confusing, [Kumar Abhirup](https://dev.to/kumar_abhirup/5-must-have-badges-to-add-in-your-readme-14c3)
+explains how to make it work.
