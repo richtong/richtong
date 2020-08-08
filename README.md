@@ -2,7 +2,7 @@
 
 <!--
 **richtong/richtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://restart.us
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @richtong, https://linkedin.com/richtong1, https://fb.me/richtong
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: read about this cool thing on https://medium.com
--->
+
