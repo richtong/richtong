@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Twitter](https://img.shields.io/twitter/follow/richtong.svg?style=social&label=@richtong)](https://twitter.com/richtong)
 <!--
 **richtong/richtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
