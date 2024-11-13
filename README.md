@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://restart.us
-- 🌱 I’m currently learning https://www.coursera.org/specializations/natural-language-processing and https://openai.com/
+- 🌱 I’m currently learning https://www.coursera.org/specializations/natural-language-processing
 - 👯 I’m looking to collaborate on drone projects
 - 🤔 I’m looking for help with COVID-19 response
 - 💬 Ask me about investing, startups, machine learning
